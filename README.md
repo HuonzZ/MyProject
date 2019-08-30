@@ -5,4 +5,5 @@
 - commit localhost: git commit -m"comment"
 - nhanh		  : git commit -a -m"comment"
 - push		  : git push
+- backup	  : git revert [id commit]
 
