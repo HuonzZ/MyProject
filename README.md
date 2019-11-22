@@ -7,3 +7,8 @@
 - push		  : git push
 - backup	  : git revert [id commit]
 - backup    : git pull
+
+- tạo nhánh  : git checkout -b <tên nhánh>
+- git add --all
+- git commit -m "thehuonz update"
+git push <tên nhánh> <link>
