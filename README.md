@@ -11,4 +11,4 @@
 - tạo nhánh  : git checkout -b <tên nhánh>
 - git add --all
 - git commit -m "thehuonz update"
-git push <tên nhánh> <link>
+- git push <tên nhánh> <link>
